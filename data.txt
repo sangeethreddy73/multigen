@@ -1,0 +1,25 @@
+Generative artificial intelligence (generative AI, GenAI, or GAI) is artificial intelligence capable of generating text, images, videos, or other data using generative models, often in response to prompts. Generative AI models learn the patterns and structure of their input training data and then generate new data that has similar characteristics.
+Improvements in transformer-based deep neural networks, particularly large language models (LLMs), enabled an AI boom of generative AI systems in the early 2020s. These include chatbots such as ChatGPT, Copilot, Gemini and LLaMA, text-to-image artificial intelligence image generation systems such as Stable Diffusion, Midjourney and DALL-E, and text-to-video AI generators such as Sora. Companies such as OpenAI, Anthropic, Microsoft, Google, and Baidu as well as numerous smaller firms have developed generative AI models.
+Generative AI has uses across a wide range of industries, including software development, healthcare, finance, entertainment, customer service, sales and marketing, art, writing, fashion, and product design. However, concerns have been raised about the potential misuse of generative AI such as cybercrime, the use of fake news or deepfakes to deceive or manipulate people, and the mass replacement of human jobs.
+Generative AI refers to a category of artificial intelligence (AI) techniques and models that are designed to generate new content, such as images, text, music, or even entire pieces of code, that is not directly copied from existing data. Generative AI models are capable of creating novel outputs based on patterns and structures they learn from large datasets during their training process.
+
+Here are some key points about generative AI:
+
+1. **Creativity and Novelty**: Generative AI models have the ability to generate content that is creative and novel. They can produce new images, texts, or other forms of data that are not simply regurgitations of what they've seen before.
+
+2. **Types of Generative AI Models**:
+   - **Generative Adversarial Networks (GANs)**: GANs consist of two neural networks—the generator and the discriminator—that are trained in a competitive manner. The generator creates new content, while the discriminator tries to distinguish between real and generated data, leading to the improvement of the generator's output over time.
+   - **Variational Autoencoders (VAEs)**: VAEs are another type of generative model that learns the underlying structure of the input data and generates new samples by sampling from the learned distribution.
+   - **Autoregressive Models**: Autoregressive models, such as autoregressive language models, generate sequences of data by predicting the next element in the sequence based on the preceding elements.
+
+3. **Applications**:
+   - **Image Generation**: Generative AI can be used to create realistic images, artwork, or even deepfakes.
+   - **Text Generation**: It can generate human-like text, poetry, stories, or code snippets.
+   - **Music Generation**: Generative models can compose music in different styles and genres.
+   - **Data Augmentation**: Generative AI can also be used for data augmentation in machine learning tasks, where it generates synthetic data to augment the training dataset.
+
+4. **Challenges**:
+   - **Quality and Diversity**: Ensuring that generated content is of high quality and diverse without being repetitive or biased is a challenge in generative AI.
+   - **Ethical Concerns**: Generative AI also raises ethical concerns, especially in areas such as deepfakes, where it can be misused to create misleading or harmful content.
+
+Overall, generative AI has tremendous potential in various fields, including art, entertainment, content creation, and data augmentation for machine learning tasks, but it also requires careful consideration and responsible use to address ethical implications.

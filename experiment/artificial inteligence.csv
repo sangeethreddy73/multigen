@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the role of the discriminator in a Generative Adversarial Network (GAN)?,a: To generate new content | b: To distinguish between real and generated data | c: To predict the next element in a sequence | d: To sample from the learned distribution,b
+Which method does a Variational Autoencoder (VAE) generative model use to produce new samples?,a: It competes with another network in order to improve the quality of generated content | b: It predicts the next element based on previous elements in a sequence | c: It samples from the learned distribution | d: None of the above,c
+What is not an application of Generative AI?,a: Realistic image generation | b: Code snippets generation | c: Hacking into secure databases | d: Music composition in different styles and genres,c
+What are some ethical concerns raised over Generative AI?,a: Ability to create misleading or harmful content | b: Ability to hack into secure systems | c: Mass replacement of human jobs | d: Both a and c,d
+Which Generative AI model involves predicting the next element in sequence based on preceding elements?,a: Generative Adversarial Networks (GANs) | b: Variational Autoencoders (VAEs) | c: Autoregressive Models | d: None of the above,c
