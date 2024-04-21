@@ -1,6 +1,26 @@
 MCQ,Choices,Correct
-What is the role of the discriminator in a Generative Adversarial Network (GAN)?,a: To generate new content | b: To distinguish between real and generated data | c: To predict the next element in a sequence | d: To sample from the learned distribution,b
-Which method does a Variational Autoencoder (VAE) generative model use to produce new samples?,a: It competes with another network in order to improve the quality of generated content | b: It predicts the next element based on previous elements in a sequence | c: It samples from the learned distribution | d: None of the above,c
-What is not an application of Generative AI?,a: Realistic image generation | b: Code snippets generation | c: Hacking into secure databases | d: Music composition in different styles and genres,c
-What are some ethical concerns raised over Generative AI?,a: Ability to create misleading or harmful content | b: Ability to hack into secure systems | c: Mass replacement of human jobs | d: Both a and c,d
-Which Generative AI model involves predicting the next element in sequence based on preceding elements?,a: Generative Adversarial Networks (GANs) | b: Variational Autoencoders (VAEs) | c: Autoregressive Models | d: None of the above,c
+"Which artificial intelligence system is capable of generating text, images, videos, or other data?",a: Reinforcement AI | b: Generative AI | c: Supervised AI | d: Unsupervised AI,b
+What enables an AI boom of generative AI systems in the early 2020s?,a: Neural Networks | b: Deep Learning | c: Transformer-based Deep Neural Networks | d: Machine Learning,c
+Which companies have developed generative AI models?,"a: Microsoft, Google | b: Baidu, OpenAI | c: Anthropic, OpenAI | d: All of the above",d
+Which industry has not been mentioned as a potential user of generative AI?,a: Fashion | b: Healthcare | c: Agriculture | d: Art,c
+What concerns have been raised about the potential misuse of generative AI?,a: Cybercrime | b: Fake news or deepfakes | c: Mass replacement of human jobs | d: All of the above,d
+What is the function of Generative Adversarial Networks (GANs)?,a: To distinguish between real and generated data | b: To generate new content | c: Both a and b | d: None of the above,c
+What does Variational Autoencoders (VAEs) learn?,a: The underlying structure of the input data | b: To generate new samples | c: Both a and b | d: None of the above,c
+What type of generative model is used to generate sequences of data?,a: Generative Adversarial Networks (GANs) | b: Variational Autoencoders (VAEs) | c: Autoregressive Models | d: None of the above,c
+Generative AI can be used for data augmentation in which tasks?,a: Machine Learning | b: Deep Learning | c: Neural Networks | d: All of the above,a
+What is a challenge in generative AI?,a: Quality and Diversity | b: Ethical Concerns | c: Both a and b | d: None of the above,c
+Which of the following is not a generative AI model?,a: GANs | b: VAEs | c: Convolutional Neural Networks | d: Autoregressive Models,c
+Which company developed the ChatGPT?,a: Microsoft | b: Google | c: OpenAI | d: Baidu,c
+What is the role of the discriminator in a Generative Adversarial Network?,a: Generates new content | b: Distinguishes between real and generated data | c: Both a and b | d: None of the above,b
+Which model is used for predicting the next element in a data sequence?,a: GANs | b: VAEs | c: Autoregressive Models | d: None of the above,c
+Which of the following is not an application of Generative AI?,a: Image Generation | b: Text Generation | c: Music Generation | d: Data Analysis,d
+Which AI system has the ability to generate content that is creative and novel?,a: Supervised AI | b: Unsupervised AI | c: Generative AI | d: Reinforcement AI,c
+Which AI system can generate synthetic data to augment the training dataset?,a: Supervised AI | b: Unsupervised AI | c: Generative AI | d: Reinforcement AI,c
+Which company developed the Sora?,a: Microsoft | b: Google | c: OpenAI | d: Baidu,a
+Which of the following is not a type of generative AI model?,a: GANs | b: VAEs | c: Autoregressive Models | d: Convolutional Neural Networks,d
+Which generative AI model learns the underlying structure of the input data?,a: GANs | b: VAEs | c: Autoregressive Models | d: None of the above,b
+Which of the following is not a use of generative AI?,a: Software development | b: Healthcare | c: Finance | d: Data Analysis,d
+"Which AI system is capable of generating human-like text, poetry, stories, or code snippets?",a: Supervised AI | b: Unsupervised AI | c: Generative AI | d: Reinforcement AI,c
+Which company developed the Stable Diffusion?,a: Microsoft | b: Google | c: OpenAI | d: Baidu,c
+Which generative AI model generates new samples by sampling from the learned distribution?,a: GANs | b: VAEs | c: Autoregressive Models | d: None of the above,b
+Which AI system can compose music in different styles and genres?,a: Supervised AI | b: Unsupervised AI | c: Generative AI | d: Reinforcement AI,c
