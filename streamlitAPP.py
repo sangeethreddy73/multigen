@@ -10,7 +10,7 @@ from langchain_community.callbacks import get_openai_callback
 from src.multigen.multigen import generate_evaluate_chain
 from src.multigen.logger import logging
 
-with open('/Users/sangeethreddy/multigen/Response.json','r') as file:
+with open('/home/ubuntu/multigen/Response.json','r') as file:
     RESPONSE_JSON = js.load(file)
 
 st.title("MCQs Creator Application with Langchain")
